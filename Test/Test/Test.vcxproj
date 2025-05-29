@@ -127,11 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="InputController.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="OutputController.cpp" />
     <ClCompile Include="UIController.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="UIController.h" />
+    <ClInclude Include="InputController.h" />
+    <ClInclude Include="OutputController.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

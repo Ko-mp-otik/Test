@@ -3,14 +3,19 @@
 
 #include <iostream>
 #include "UIController.h"
-using namespace UIController;
+#include "InputController.h"
+using namespace std;
 
 int main()
 {
-    UIController con;
-    Print("ABC");
-    vector<string> a{ "a", "b", "c" };
-    con.PrintM(a);
+    InputController g;
+    string k;
+    string d = g.SaveInput(k, "Enter name");
+
+    vector<string> list{ "a", "b", "c" };
+    int f = g.ChoiceInput(list);
+
+    cout << d;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

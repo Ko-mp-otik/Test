@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|solutionrelative:Test\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\UIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|solutionrelative:Test\\UIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\InputController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|solutionrelative:Test\\InputController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\InputController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|solutionrelative:Test\\InputController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\OutputController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|solutionrelative:Test\\OutputController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\UIController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|solutionrelative:Test\\UIController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\UIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|solutionrelative:Test\\UIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\OutputController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{198DF535-A9BF-4D6C-8004-9BDA283C50FF}|Test\\Test.vcxproj|solutionrelative:Test\\OutputController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutputController.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\OutputController.cpp",
+              "RelativeDocumentMoniker": "Test\\OutputController.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\OutputController.cpp",
+              "RelativeToolTip": "Test\\OutputController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T15:20:20.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputController.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\InputController.cpp",
+              "RelativeDocumentMoniker": "Test\\InputController.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\InputController.cpp",
+              "RelativeToolTip": "Test\\InputController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T15:20:02.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "InputController.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\InputController.h",
+              "RelativeDocumentMoniker": "Test\\InputController.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\InputController.h",
+              "RelativeToolTip": "Test\\InputController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-29T14:41:35.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutputController.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\OutputController.h",
+              "RelativeDocumentMoniker": "Test\\OutputController.h",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\OutputController.h",
+              "RelativeToolTip": "Test\\OutputController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-29T14:40:55.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UIController.cpp",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\UIController.cpp",
               "RelativeDocumentMoniker": "Test\\UIController.cpp",
@@ -39,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UIController.h",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\UIController.h",
               "RelativeDocumentMoniker": "Test\\UIController.h",
               "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\UIController.h",
               "RelativeToolTip": "Test\\UIController.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-22T15:10:07.454Z",
               "EditorCaption": ""
@@ -58,7 +126,7 @@
               "RelativeDocumentMoniker": "Test\\Main.cpp",
               "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\Test\\Test\\Test\\Main.cpp",
               "RelativeToolTip": "Test\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-22T14:31:54.163Z",
               "EditorCaption": ""
