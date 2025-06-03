@@ -4,18 +4,18 @@
 #include <iostream>
 #include "UIController.h"
 #include "InputController.h"
+#include "OutputController.h"
+#include "FileManage.h"
 using namespace std;
 
 int main()
 {
-    InputController g;
-    string k;
-    string d = g.SaveInput(k, "Enter name");
+	OutputController out;
+	FileManage f("test.txt");
+	string g;
+	g = f.Read();
+	out.Print(g);
 
-    vector<string> list{ "a", "b", "c" };
-    int f = g.ChoiceInput(list);
-
-    cout << d;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

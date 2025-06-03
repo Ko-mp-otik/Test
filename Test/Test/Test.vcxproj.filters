@@ -36,6 +36,9 @@
     <ClCompile Include="OutputController.cpp">
       <Filter>Исходные файлы\View</Filter>
     </ClCompile>
+    <ClCompile Include="FileManage.cpp">
+      <Filter>Исходные файлы\Model</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="UIController.h">
@@ -46,6 +49,9 @@
     </ClInclude>
     <ClInclude Include="InputController.h">
       <Filter>Исходные файлы\View</Filter>
+    </ClInclude>
+    <ClInclude Include="FileManage.h">
+      <Filter>Исходные файлы\Model</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
